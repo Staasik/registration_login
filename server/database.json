@@ -1,0 +1,54 @@
+[
+  {
+    "username": "admin1",
+    "password": "$2b$10$H/oIFDYoIry5dGeeQKx2b.vaLPIxZEsbAMcr7mCpNTkpakiM92X/i"
+  },
+  {
+    "username": "admin2",
+    "password": "$2b$10$SLudHI7uIcSI7vCK0.zov.2Ip6OGhg6Gnob8ZFoXMXwxVaY3QVB92"
+  },
+  {
+    "username": "admin",
+    "password": "$2b$10$wDTKedyYwO2kHF5uamz3.u0XUwHqq2tqAA0FNNnzmsMdqrP.JTsX."
+  },
+  {
+    "username": "",
+    "password": "$2b$10$fTvB1/cmAkZyvbK9rjv.feZ4JZBbLRx5HwfmgF/OjgmWalt6jN2Ba"
+  },
+  {
+    "username": "аа",
+    "password": "$2b$10$p82FiZLDHjG3p/snVryl2OupeHUZavglt.IYPX1haDsLieoDXfAH."
+  },
+  {
+    "username": "ff",
+    "password": "$2b$10$Ff43XVzJrqfw.0QUbRlQv.XmR3Dqs5n.kAfSkDoNJfa7btHkIEJE2"
+  },
+  {
+    "username": "ddd",
+    "password": "$2b$10$UNfCGjNPGSwIikZA.lDqn.MFuSG9I1ik1xkGQl5p/Fn3PwxlED1RS"
+  },
+  {
+    "username": "dd",
+    "password": "$2b$10$9orooKiDtWK1jEUfYOnLRO3k07Wxz4g4E2kU/FIkzeuaHFzfr7gpW"
+  },
+  {
+    "username": "admin11",
+    "password": "$2b$10$7E0jPVvzZaCznj4xshun3OkG66smrOHwBLFuJdHpysHfsVGA.Vo86"
+  },
+  {
+    "username": "=i",
+    "password": "$2b$10$nV6FYMSA1h66vaGJGAKiS.JhoknYMERQ/JNEMx6NbTxQtvgGWAuAC"
+  },
+  {
+    "username": "fff",
+    "password": "$2b$10$xORogEVmKrxI7i/XWnrwXewI4MvmANAqjUFgNk8QvK1rLFwwXzL42"
+  },
+  {
+    "username": "в",
+    "password": "$2b$10$S6sqzoKChYDnL9LtX9kWqOjlEv/yq5a.xCaRPqjVrpGFNgInlclTy"
+  },
+  {
+    "username": "ыы",
+    "password": "$2b$10$Aa.dI.hi2YZAo4B8B62Qvum39hvrI0PYSfadp6tiE8XEl33oAEU82"
+  }
+]
